@@ -2,44 +2,43 @@
 
 # VAGRANT Recap:
 
-* Start your vagrant project by making a new directory
+**Start your vagrant project by making a new directory
 
 mkdir `<project folder>` 
 
->vagrant init ## creates a Vagrantfile with default settings
+## vagrant init >> creates a Vagrantfile with default settings
 
-Add boxes info
-Ubuntu/precise64
-Ubuntu/trusty64
+### Add boxes info
+* Ubuntu/precise64
+* Ubuntu/trusty64
 
-Where to find more boxes? 
+**Where to find more boxes? 
 
-Vagrantbox.es
+http://vagrantbox.es
 
+>vagrant up - starts up the VM
 
-bash>vagrant up - starts up the VM
+**vagrant + following:
 
-vagrant + following:
+*box list - list the currently available and downloaded boxes
 
-box list - list the currently available and downloaded boxes
+*box remove <name> —box-version <version>
 
-box remove <name> —box-version <version>
+*version - current vagrant version
 
-version - current vagrant version
+*status -current state of vagrant vm
 
-status -current state of vagrant vm
+*suspend
 
-suspend
+*resume
 
-resume
+*halt
 
-halt
+*reload
 
-reload
+*destroy
 
-destroy
-
-To make custom vagrant boxes:
+## To make custom vagrant boxes:
 
 This will preserve the changes to vagrant boxes between destroys
 

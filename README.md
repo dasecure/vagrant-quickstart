@@ -64,7 +64,7 @@ Step 4. Add the new box to the box list
 >vagrant box add Custom-Trusty custom-trusty.box
 >vagrant box list - will list the newly added customized VM
 
-## After creating the new package SSH stopped working
+### After creating the new package SSH stopped working
 Solution: Add config.ssh.insert_key = false to Vagrantfile before packaging
 
 ##ubuntu boot log file at /var/log/boot.log
@@ -72,3 +72,10 @@ Solution: Add config.ssh.insert_key = false to Vagrantfile before packaging
 Provisioning with Vagrant
 Supported: Chef, Puppet, Ansible, etc
 Bash as well
+
+## How to use?
+
+1. git clone this repository
+2. run vagrant up
+3. wait for command to complete
+4. go to http://localhost:8080

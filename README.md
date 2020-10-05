@@ -1,10 +1,10 @@
 ## Vagrant Quickstart Project
 
-VAGRANT Recap:
+# VAGRANT Recap:
 
-mkdir <project folder> 
+mkdir `<project folder>` 
 
-vagrant init - creates a Vagrantfile with default settings
+>vagrant init ## creates a Vagrantfile with default settings
 
 Add boxes info
 Ubuntu/precise64

@@ -8,13 +8,15 @@ mkdir `<project folder>`
 
 ## vagrant init >> creates a Vagrantfile with default settings
 
-### Add boxes info
+### Example boxes
 * Ubuntu/precise64
 * Ubuntu/trusty64
 
 ## Where to find more boxes? 
 
 http://vagrantbox.es
+
+## How to start a Vagrant box?
 
 >vagrant up - starts up the VM
 

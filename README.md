@@ -12,7 +12,7 @@ mkdir `<project folder>`
 * Ubuntu/precise64
 * Ubuntu/trusty64
 
-** Where to find more boxes? 
+## Where to find more boxes? 
 
 http://vagrantbox.es
 

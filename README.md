@@ -1,7 +1,6 @@
-# vagrant-quickstart
-Vagrant Quickstart Project
+## Vagrant Quickstart Project
 
-VAGRANT Recap
+VAGRANT Recap:
 
 mkdir <project folder> 
 

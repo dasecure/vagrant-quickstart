@@ -2,6 +2,8 @@
 
 # VAGRANT Recap:
 
+* Start your vagrant project by making a new directory
+
 mkdir `<project folder>` 
 
 >vagrant init ## creates a Vagrantfile with default settings

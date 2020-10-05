@@ -15,6 +15,8 @@ mkdir `<project folder>`
 ## Where to find more boxes? 
 
 http://vagrantbox.es
+https://app.vagrantup.com/bento
+https://app.vagrantup.com/boxes/search
 
 ## How to start a Vagrant box?
 

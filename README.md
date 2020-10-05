@@ -2,7 +2,7 @@
 
 # VAGRANT Recap:
 
-**Start your vagrant project by making a new directory
+** Start your vagrant project by making a new directory
 
 mkdir `<project folder>` 
 
@@ -12,17 +12,17 @@ mkdir `<project folder>`
 * Ubuntu/precise64
 * Ubuntu/trusty64
 
-**Where to find more boxes? 
+** Where to find more boxes? 
 
 http://vagrantbox.es
 
 >vagrant up - starts up the VM
 
-**vagrant + following:
+### vagrant + following:
 
-*box list - list the currently available and downloaded boxes
+* box list - list the currently available and downloaded boxes
 
-*box remove <name> —box-version <version>
+* box remove <name> —box-version <version>
 
 *version - current vagrant version
 

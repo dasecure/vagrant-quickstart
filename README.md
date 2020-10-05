@@ -24,19 +24,19 @@ http://vagrantbox.es
 
 * box remove <name> —box-version <version>
 
-*version - current vagrant version
+* version - current vagrant version
 
-*status -current state of vagrant vm
+* status - current state of vagrant vm
 
-*suspend
+* suspend - suspends the vm
 
-*resume
+* resume - resumes the vm
 
-*halt
+* halt - stops or powers off the vm
 
-*reload
+* reload - reloads the vm
 
-*destroy
+* destroy - destroys the vm, lost changes
 
 ## To make custom vagrant boxes:
 
